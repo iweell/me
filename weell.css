@@ -117,8 +117,8 @@ nav a {
     padding: 5px 12px;
     width: auto;
     height: 20px;
-    -webkit-mask: url("../img/nature-sprite.png");
-    -moz-mask: url("../img/nature-sprite.png");
+    -webkit-mask: url("nature-sprite.png");
+    -moz-mask: url("nature-sprite.png");
     -webkit-mask-size: 9000% 100%;
     mask-size: 9000% 100%;
     border: none;
@@ -359,8 +359,8 @@ a.hire-me {
     text-transform: uppercase;
     text-decoration: none; 
     box-sizing: border-box;
-    -webkit-mask: url("../img/urban-sprite.png");
-     -moz-mask: url("../img/urban-sprite.png");
+    -webkit-mask: url("urban-sprite.png");
+     -moz-mask: url("urban-sprite.png");
      -webkit-mask-size: 3000% 100%;
      mask-size: 3000% 100%;
      border: none;
